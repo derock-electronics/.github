@@ -33,6 +33,11 @@
 - آموزش و راهنمای پروژه
 - همکاری در تأمین تجهیزات سفارشی
 
+- ##  فروش در پلتفرم‌های دیگر
+- **Digikala**: [View Store](https://www.digikala.com/seller/6Z5D3/)  
+- **IranMarket**: [View Store](https://iranmarket.app/@derock.ir)  
+- **E-malls**: [View Store](https://emalls.ir/Shop/64728/) 
+
 ## 🌐 لینک‌ها
 - **وبسایت:** [https://derock.ir](https://derock.ir)
 - **ایمیل:** info@derock.ir
