@@ -1,8 +1,8 @@
 [![Website](https://img.shields.io/badge/🌐-https://derock.ir-blue)](https://derock.ir)
 [![GitHub](https://img.shields.io/badge/💻-GitHub-black)](https://github.com/derock-electronics)
-[![Digikala](https://img.shields.io/badge/Digikala-red)](https://www.digikala.com/seller/6Z5D3/)
-[![IranMarket](https://img.shields.io/badge/IranMarket-yellow)](https://iranmarket.app/@derock.ir)
-[![Emalls](https://img.shields.io/badge/Emalls-orange)](https://emalls.ir/Shop/64728/)
+[![Digikala](https://img.shields.io/badge/🛒-Digikala-red)](https://www.digikala.com/seller/6Z5D3/)
+[![IranMarket](https://img.shields.io/badge/🛒-IranMarket-yellow)](https://iranmarket.app/@derock.ir)
+[![Emalls](https://img.shields.io/badge/🛒-Emalls-orange)](https://emalls.ir/Shop/64728/)
 [![Contact](https://img.shields.io/badge/📧-Email-blue)](mailto:info@derock.ir)
 
 # ⚡ فروشگاه و آزمایشگاه الکترونیک دِراک
