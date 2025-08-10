@@ -1,8 +1,8 @@
 # ⚡ فروشگاه اینترنتی الکترونیک دِراک
 
-[![Website](https://img.shields.io/badge/🌐-مشاهده_سایت-blue)](https://derock.ir)
+[![Website](https://img.shields.io/badge/🌐-derock.ir-blue)](https://derock.ir)
 [![GitHub](https://img.shields.io/badge/💻-GitHub-black)](https://github.com/derock-electronics)
-[![Contact](https://img.shields.io/badge/📧-تماس_با_ما-orange)](mailto:info@derock.ir)
+[![Contact](https://img.shields.io/badge/📧-email-orange)](mailto:info@derock.ir)
 
 ---
 
